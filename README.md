@@ -1,4 +1,4 @@
-# Cesium气泡窗插件
+# Cesium 3d热力图插件
 ### [在线体验](http://mapgl.com/shareCode/#/Heatmap3d?downUrl=)  
 gitee：[https://gitee.com/caozl1132/cesiumExp-heatmap3d](https://gitee.com/caozl1132/cesiumExp-heatmap3d)  
 github：[https://github.com/gitgitczl/cesiumExp-heatmap3d](https://github.com/gitgitczl/cesiumExp-heatmap3d)
