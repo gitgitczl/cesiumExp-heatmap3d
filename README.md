@@ -1,7 +1,7 @@
 # Cesium气泡窗插件
 ### [在线体验](http://mapgl.com/shareCode/#/Heatmap3d?downUrl=)  
-gitee：[https://gitee.com/caozl1132/cesiumExp-heatmap3d]https://gitee.com/caozl1132/cesiumExp-heatmap3d 
-github：[https://github.com/gitgitczl/cesiumExp-heatmap3d]https://github.com/gitgitczl/cesiumExp-heatmap3d
+gitee：[https://gitee.com/caozl1132/cesiumExp-heatmap3d](https://gitee.com/caozl1132/cesiumExp-heatmap3d)  
+github：[https://github.com/gitgitczl/cesiumExp-heatmap3d](https://github.com/gitgitczl/cesiumExp-heatmap3d)
 
 ***
 ps：如果可以的话，希望大家能给我个star，好让我有更新下去的动力；
